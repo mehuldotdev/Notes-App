@@ -1,7 +1,7 @@
 import {Routes, Route} from "react-router"
 import React from 'react'
 import Homepage from "./pages/Homepage.jsx"
-import Createpage from "./pages/CreatePage"
+import Createpage from "./pages/Createpage.jsx"
 import NoteDetailpage from "./pages/NoteDetailpage.jsx"
 import './App.css';
 import { Toaster, toast } from "react-hot-toast"

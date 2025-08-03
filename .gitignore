@@ -12,3 +12,4 @@ backend/*.db
 
 # Logs
 *.log
+.DS_Store
